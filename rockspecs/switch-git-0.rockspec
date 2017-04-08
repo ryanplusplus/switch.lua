@@ -1,8 +1,8 @@
 package = 'switch'
 version = 'git-0'
 source = {
-  url = 'git://github.com/ryanplusplus/switch.lua.git',
-  dir = 'src'
+  url = 'https://github.com/ryanplusplus/switch.lua/archive/master.zip',
+  dir = 'switch.lua-master/src'
 }
 description = {
   summary = 'Lua implementation of a switch statement.',
